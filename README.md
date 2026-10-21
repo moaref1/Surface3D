@@ -19,7 +19,7 @@ Requires Windows 10 or 11 (64-bit) and a DirectX 11 GPU. DirectX 12 ray tracing 
 | | Personal | Studio |
 |---|---|---|
 | Who | Individuals working alone: hobby, students, teachers, freelancers (paid client work included) | Companies, studios and teams: 2 or more people, or installed on company computers |
-| Price | **Free** | **$79 per seat / year** (1-10 seats)<br>**$129 per seat / year** (11+ seats) |
+| Price | **Free** | **$35 per seat / year** (1-10 seats)<br>**$100 per seat / year** (11+ seats) |
 | Commercial use of your work | Yes | Yes |
 | All updates | Yes | Yes, for the licensed year |
 | Priority support | - | Yes |
@@ -34,7 +34,7 @@ Full terms: [LICENSE.txt](LICENSE.txt). Third-party component licenses are in th
 ## Support the project
 
 Surface3D is made by one developer. If it helps your work, a donation keeps it going:
-[Sponsor on GitHub](https://github.com/sponsors/moaref1).
+[Donate with PayPal](https://www.paypal.com/donate/?hosted_button_id=SFRZK6K2A957J).
 
 ## Feedback
 
