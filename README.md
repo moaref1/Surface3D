@@ -6,6 +6,19 @@ previews.
 
 **Free for individuals. Donation supported. Teams and studios need a Studio License.**
 
+Website: **[surface3d.site](https://surface3d.site)** - features, tutorials, documentation and [pricing](https://surface3d.site/pricing.html).
+
+## Highlights
+
+- **Layers and procedural graphs in one stack**: paint, fill and procedural layers, effects, masks and folders, each layer able to hold a full node graph.
+- **Teach Mask**: paint where dirt or wear should go (and where not); it learns from your strokes, the baked maps and the surface, picks realistic grunge for each area, and can send **drips** running down from the edges you paint.
+- **Edge damage without high-poly baking**: bevels and worn edges on low-poly meshes through normals, driven by generators or masks.
+- **Sculpting on the low-poly**, straight into the normal map.
+- **Gradients everywhere**: colour, roughness and metallic as multi-stop gradients (linear, radial, angular, diamond...), on layers, in the graph and along brush strokes.
+- **Baking** of normal, AO, curvature, position, thickness and ID maps, with dense high-poly meshes (millions of triangles) loading in the background.
+- **UV editing**, real-time ray-traced previews, Poly Haven HDRIs and materials, 13 interface languages including Persian and Arabic.
+- Small and fast: about 20 MB, comfortable at 2K on an entry GPU and 4K on a high-end one.
+
 ## Download
 
 Get the latest version from [Releases](https://github.com/moaref1/Surface3D/releases/latest):
