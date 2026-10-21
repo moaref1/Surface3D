@@ -21,9 +21,11 @@ Surface3D ("the Software") you accept it. If you do not accept it, do not instal
    a) a company, studio, agency or other organization where two (2) or more people use the
       Software, or where the Software is installed on computers the organization provides;
    b) use by an employee or contractor as part of their work for such an organization.
-   A Studio License is sold per seat (one named person or one workstation) for one year, and
-   covers every version released during that year. Current prices and how to buy are listed at
-   https://github.com/moaref1/Surface3D (see "Licensing"). Organizations may evaluate the
+   A Studio License is a one-time purchase per seat (one named person or one workstation). It is
+   perpetual: you may keep using every version released during the first year after purchase,
+   with no time limit. Later versions require an optional update renewal. It is not a
+   subscription. Current prices and how to buy are listed at https://surface3d.site/pricing.html
+   and https://github.com/moaref1/Surface3D (see "Licensing"). Organizations may evaluate the
    Software for up to thirty (30) days before buying.
    Non-profit organizations and schools may ask for a free or reduced Studio License.
 

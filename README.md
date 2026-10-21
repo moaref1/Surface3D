@@ -19,10 +19,12 @@ Requires Windows 10 or 11 (64-bit) and a DirectX 11 GPU. DirectX 12 ray tracing 
 | | Personal | Studio |
 |---|---|---|
 | Who | Individuals working alone: hobby, students, teachers, freelancers (paid client work included) | Companies, studios and teams: 2 or more people, or installed on company computers |
-| Price | **Free** | **$35 per seat / year** (1-10 seats)<br>**$100 per seat / year** (11+ seats) |
+| Price | **Free** | **One-time, per seat** (no subscription)<br>Indie studio, 2-10 seats: ~~$149~~ **$59**<br>Studio, 11+ seats: ~~$299~~ **$119**<br>Large / AAA studios: contact for a quote |
 | Commercial use of your work | Yes | Yes |
-| All updates | Yes | Yes, for the licensed year |
+| Updates | All, free | 1 year included, keep that version forever.<br>Optional renewal: $59 per seat / year |
 | Priority support | - | Yes |
+
+**Early access: 60% off Studio licenses for early buyers** (prices above already include it).
 
 - Studios can evaluate Surface3D for 30 days before buying.
 - Schools and non-profits: ask for a free or reduced Studio License.
