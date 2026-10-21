@@ -1,0 +1,62 @@
+SURFACE3D SOFTWARE LICENSE AGREEMENT
+Version 1.0 - October 2026
+
+Copyright (c) 2026 Pouya Saad. All rights reserved.
+
+This agreement is between you and the author of Surface3D ("the Author"). By installing or using
+Surface3D ("the Software") you accept it. If you do not accept it, do not install or use the Software.
+
+1. PERSONAL LICENSE (FREE)
+   You may download, install and use the Software free of charge if you are an individual using it
+   on your own behalf. This includes:
+   - personal, hobby and learning projects;
+   - students and teachers, for education;
+   - freelancers working alone, including paid client work and commercial projects.
+   Work you create with the Software is yours. You may sell it and use it commercially.
+   Donations are welcome and entirely optional; they do not change the license you hold.
+
+2. TEAM AND STUDIO LICENSE (PAID)
+   A paid Studio License is required when the Software is used by or for an organization, which
+   means any of:
+   a) a company, studio, agency or other organization where two (2) or more people use the
+      Software, or where the Software is installed on computers the organization provides;
+   b) use by an employee or contractor as part of their work for such an organization.
+   A Studio License is sold per seat (one named person or one workstation) for one year, and
+   covers every version released during that year. Current prices and how to buy are listed at
+   https://github.com/moaref1/Surface3D (see "Licensing"). Organizations may evaluate the
+   Software for up to thirty (30) days before buying.
+   Non-profit organizations and schools may ask for a free or reduced Studio License.
+
+3. RESTRICTIONS
+   You may not:
+   - sell, rent, lease or sublicense the Software;
+   - redistribute the Software, modified or not, except by linking to the official download page;
+   - remove or change copyright and license notices;
+   - reverse engineer, decompile or disassemble the Software, except where the law allows it
+     despite this restriction;
+   - use the Software under the Personal License where section 2 requires a Studio License.
+
+4. THIRD-PARTY COMPONENTS
+   The Software includes third-party components under their own licenses (see the "licenses"
+   folder). Those licenses apply to those components; nothing here limits your rights under them.
+
+5. UPDATES AND DATA
+   The Software may check the official GitHub page for new versions. It sends no personal data
+   and no project content. Update checks can be turned off in Preferences.
+
+6. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. KEEP BACKUPS OF YOUR WORK.
+
+7. LIMITATION OF LIABILITY
+   TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE AUTHOR IS NOT LIABLE FOR ANY INDIRECT, INCIDENTAL,
+   SPECIAL OR CONSEQUENTIAL DAMAGES, OR FOR LOSS OF DATA, PROFITS OR BUSINESS, ARISING FROM USE OF
+   THE SOFTWARE. THE AUTHOR'S TOTAL LIABILITY IS LIMITED TO THE AMOUNT YOU PAID FOR THE SOFTWARE.
+
+8. TERMINATION
+   This license ends automatically if you break its terms. You must then stop using the Software.
+   Sections 6 and 7 remain in force.
+
+9. CHANGES
+   Future versions may come with a new version of this agreement. The agreement shipped with a
+   version applies to that version.

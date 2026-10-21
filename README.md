@@ -1,20 +1,41 @@
 # Surface3D
 
-A Windows application for 3D painting and procedural texturing. Application source is private for now.
+A GPU texture painting, baking and material tool for Windows: layers and masks, procedural graphs,
+smart weathering masks, high-poly baking, sculpting, particles, UV tools and real-time ray-traced
+previews.
 
-- [Website](https://surface3d.site)
-- [0.44 library update](updates/0.44-library.md)
-- [Releases](https://github.com/moaref1/Surface3D/releases)
-- [Community and bug reports](https://discord.gg/K3YzGP72cg)
+**Free for individuals. Donation supported. Teams and studios need a Studio License.**
 
-## Download status
+## Download
 
-The 0.44 Windows build has been verified locally. Its binary package is not uploaded here yet. The existing draft release has no attached application download. GitHub's automatically generated Source code archives contain repository information, not the application.
+Get the latest version from [Releases](https://github.com/moaref1/Surface3D/releases/latest):
+download `Surface3D-<version>-Windows-x64.zip`, unzip it and run `Surface3D.exe`.
+The app tells you when a new version is out and can update itself.
 
-## Installation
+Requires Windows 10 or 11 (64-bit) and a DirectX 11 GPU. DirectX 12 ray tracing is used when available.
 
-When a binary release is available, extract the complete ZIP and run Surface3D.exe inside the Surface3D folder. Keep its assets, library, shaders and DLLs together. Verify the archive against its accompanying SHA-256 checksum.
+## Licensing
 
-Surface3D is a development preview. Keep backups of important projects. Third-party notices are bundled with the application.
+| | Personal | Studio |
+|---|---|---|
+| Who | Individuals working alone: hobby, students, teachers, freelancers (paid client work included) | Companies, studios and teams: 2 or more people, or installed on company computers |
+| Price | **Free** | **$79 per seat / year** (1-10 seats)<br>**$129 per seat / year** (11+ seats) |
+| Commercial use of your work | Yes | Yes |
+| All updates | Yes | Yes, for the licensed year |
+| Priority support | - | Yes |
 
-Contact: pouyasaad@gmail.com
+- Studios can evaluate Surface3D for 30 days before buying.
+- Schools and non-profits: ask for a free or reduced Studio License.
+- To buy a Studio License, open a [Studio License request](https://github.com/moaref1/Surface3D/issues/new?title=Studio%20License%20request&labels=license)
+  with your studio name and number of seats. You get an invoice and a license certificate.
+
+Full terms: [LICENSE.txt](LICENSE.txt). Third-party component licenses are in the `licenses` folder of each release.
+
+## Support the project
+
+Surface3D is made by one developer. If it helps your work, a donation keeps it going:
+[Sponsor on GitHub](https://github.com/sponsors/moaref1).
+
+## Feedback
+
+Bug reports and ideas are welcome in [Issues](https://github.com/moaref1/Surface3D/issues).
