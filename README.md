@@ -14,6 +14,7 @@ Website: **[surface3d.site](https://surface3d.site)** - features, tutorials, doc
 - **Teach Mask**: paint where dirt or wear should go (and where not); it learns from your strokes, the baked maps and the surface, picks realistic grunge for each area, and can send **drips** running down from the edges you paint.
 - **Edge damage without high-poly baking**: bevels and worn edges on low-poly meshes through normals, driven by generators or masks.
 - **Sculpting on the low-poly**, straight into the normal map.
+- **Game-ready shaders per texture set**: Skin (subsurface scattering and light through thin parts), Foliage / thin, Clear coat and Custom, with paintable maps and export presets for Unreal Engine, Unity HDRP and glTF / Blender.
 - **Gradients everywhere**: colour, roughness and metallic as multi-stop gradients (linear, radial, angular, diamond...), on layers, in the graph and along brush strokes.
 - **Baking** of normal, AO, curvature, position, thickness and ID maps, with dense high-poly meshes (millions of triangles) loading in the background.
 - **UV editing**, real-time ray-traced previews, Poly Haven HDRIs and materials, 13 interface languages including Persian and Arabic.
